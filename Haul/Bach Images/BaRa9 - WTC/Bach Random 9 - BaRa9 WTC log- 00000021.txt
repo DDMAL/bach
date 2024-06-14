@@ -1,0 +1,15 @@
+2024-06-13 12:39:10,054 - rodan.jobs.Paco_classifier.fast_paco_classifier - 0 / 4037
+2024-06-13 12:39:17,106 - rodan.jobs.Paco_classifier.fast_paco_classifier - 256 / 4037
+2024-06-13 12:39:20,282 - rodan.jobs.Paco_classifier.fast_paco_classifier - 512 / 4037
+2024-06-13 12:39:23,536 - rodan.jobs.Paco_classifier.fast_paco_classifier - 768 / 4037
+2024-06-13 12:39:26,913 - rodan.jobs.Paco_classifier.fast_paco_classifier - 1024 / 4037
+2024-06-13 12:39:30,328 - rodan.jobs.Paco_classifier.fast_paco_classifier - 1280 / 4037
+2024-06-13 12:39:34,732 - rodan.jobs.Paco_classifier.fast_paco_classifier - 1536 / 4037
+2024-06-13 12:39:37,929 - rodan.jobs.Paco_classifier.fast_paco_classifier - 1792 / 4037
+2024-06-13 12:39:41,167 - rodan.jobs.Paco_classifier.fast_paco_classifier - 2048 / 4037
+2024-06-13 12:39:44,633 - rodan.jobs.Paco_classifier.fast_paco_classifier - 2304 / 4037
+2024-06-13 12:39:47,861 - rodan.jobs.Paco_classifier.fast_paco_classifier - 2560 / 4037
+2024-06-13 12:39:51,075 - rodan.jobs.Paco_classifier.fast_paco_classifier - 2816 / 4037
+2024-06-13 12:39:54,276 - rodan.jobs.Paco_classifier.fast_paco_classifier - 3072 / 4037
+2024-06-13 12:39:57,501 - rodan.jobs.Paco_classifier.fast_paco_classifier - 3328 / 4037
+2024-06-13 12:40:00,689 - rodan.jobs.Paco_classifier.fast_paco_classifier - 3584 / 4037
